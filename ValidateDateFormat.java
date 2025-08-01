@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Solution28 {
+public class ValidateDateFormat{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String timeString = sc.next();
