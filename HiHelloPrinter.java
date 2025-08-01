@@ -5,7 +5,7 @@ import java.math.*;
 import java.util.regex.*;
 //import java.util.Scanner;
 
-public class Solution25 {
+public class HiHelloPrinter{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
