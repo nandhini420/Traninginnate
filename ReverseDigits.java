@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class Solution46 {
+public class ReverseDigits{
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
