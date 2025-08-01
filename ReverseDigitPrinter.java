@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Solution45 {
+public class ReverseDigitPrinter{
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
