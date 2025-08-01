@@ -5,7 +5,7 @@ import java.math.*;
 import java.util.regex.*;
 //import java.util.Scanner;
 
-public class Solution24 {
+public class DivisibleByThree{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
