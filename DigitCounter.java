@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Solution41 {
+public class DigitCounter {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
