@@ -17,10 +17,10 @@ public class PerfectNumberChecker {
             }
         }
        
-        if (a ==  n) {
+        if (a == n) {
             System.out.println("Perfect Number");
         } else {
-            System.out.println("Not a  Perfect Number");
+            System.out.println("Not a Perfect Number");
         }
     }
 }
