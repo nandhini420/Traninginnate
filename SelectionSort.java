@@ -10,6 +10,7 @@ public class SelectionSort {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
         Scanner sc =new Scanner(System.in);
        int n =sc.nextInt();
+        int min,index;
        int a[] = new int[n];
        for(int i = 0;i<n;i++){
            a[i] =sc.nextInt();
@@ -24,12 +25,12 @@ public class SelectionSort {
                }
            }
            int t =a[i];
-           a[i]= a[j];
-           a[j]=t;
+           a[i]= a[index];
+           a[index]=t;
            
        }
        for(int i = 0;i<n;i++){
-           System.out.println(a[i]+" ");
+           System.out.print(a[i]+" ");
        }
     }
 }
